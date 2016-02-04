@@ -1,0 +1,58 @@
+/*Inserta tu CSS aqui*/
+*{
+	text-decoration: none;
+}
+.one{
+	height: 620px;
+	background: url("../img/grupal.jpg") no-repeat;
+	background-size: 100%;
+}
+.logo img{
+	width: 100%;
+	margin: 50px 0 0 0;
+}
+.span {
+	margin: 30px 0 0 0;
+}
+.span a{
+    color:black;     
+    font-size: 12px; 
+}
+.two{
+	height: 270px;	
+}
+.sumate{
+	margin: 62px 0 0 0;
+	height: 50px;
+	width: 135px;
+	background-color: #FCB739;
+	border:0;
+}
+.coders{
+	padding: 60px 0;
+}
+.coders img {
+	width: 100%;
+}
+.coders p{
+	font-weight: bolder;
+	font-size: 13px;
+	border-bottom: 1px solid gray;	
+	text-align: left;		
+}
+.three{
+	height: 80px;
+	background-color: #323230;
+}
+.piepag p {
+	color: #AFAFAC;
+	padding:5% 0;
+	font-size: 11px;
+}
+.piepag p span{
+	color:#177EAB;
+
+}
+.piepag .fa {
+	color: #3AB1E3;
+}
